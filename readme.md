@@ -6,4 +6,4 @@ Este repositório serve apenas como teste para exercicios de utilização do Git
 
 ##autores
 
-Desenvolvido pela zuleika
+Desenvolvido pela zuleika e pelo pafuncio
