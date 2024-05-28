@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+header{
+    background-color: #1a1a1a;
+    display: flex;
+}  
+
+header p{
+    color: white;
+    font-size: 50px;
+    
+}
+
+header img{
+    height: 150px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+nav{
+    background-color: #ebc00f;
+    padding: 5px 0px 5px 25px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 10px;
+}
+nav a:hover{
+    font-weight: bold;
+}
+
+footer{
+    background-color: #1a1a1a;
+    color:wheat;
+    text-align: center;
+    padding: 5px 0px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    font-weight: bold;
+}
+
+#container{
+    padding: 50px 100px;
+}
+
+/*INDEX*/
+#superior{
+    background-color: #ebc00f;
+    display: flex;
+}
+
+#home-texto{
+    padding: 0px 20px; /*cima e baixo - lados*/
+}
+
+#inferior{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.img-destaque{
+    width: 380px;
+}
+
+/*CARDAPIO*/
+h1{
+    text-align: center;
+}
+
+#imgleft{
+    background-color: #e39024;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#texto-left{
+    padding: 0px 25px;
+}
+
+#texto-right { 
+    background-color: #ebc00f;
+    padding-left: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgpizza{
+    width: 350px;
+}
+
+/*CONTATO*/
+.mail{
+    text-decoration: none;
+    color: #3d3700;
+}
+
+.mail:hover{
+    font-weight: bold;
+}
+
